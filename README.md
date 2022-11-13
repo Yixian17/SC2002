@@ -8,16 +8,7 @@ Copy BookingHistory.txt, Cineplex6, Holiday, MovieDetails6.txt, MovieTiming, Pri
 ![example](https://github.com/Yixian17/hello-world/blob/main/Screenshot%202022-11-13%20161459.png)
 
 Run program using any java IDE
-Refer to video for actual demonstration 
-
-
-### Creating Staff Account
-Create a staff account with your own ID and password.
-You can now login with these newly created credentials
-
-
-### Login as User
-User need not create any account
+Refer to our video for actual demonstration
 
 
 More information can be found in the report or watch our video for a full demonstration
