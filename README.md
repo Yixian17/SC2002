@@ -2,7 +2,7 @@
 Welcome to our SC2002 MOBLIMA group assignment project! 
 
 ## Setup instruction
-Copy movieassignment folder to the src folder ![alt text](http://prnt.sc/gYRIVAMqMPID)
+Copy movieassignment folder to the src folder ![example](http://prnt.sc/gYRIVAMqMPID)
 Copy BookingHistory.txt, Cineplex6, Holiday, MovieDetails6.txt, MovieTiming, PriceConfiguration, StaffDetails2 to the project folder (paste pic)
 Run program using any java IDE
 Refer to video for actual demonstration 
