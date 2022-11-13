@@ -1,14 +1,22 @@
 # SC2002 Assignment
 Welcome to our SC2002 MOBLIMA group assignment project! 
-To start the application, run the MainUI.java file.
 
-## Usage
+## Setup instruction
+Copy movieassignment folder to the src folder (paste pic)
+Copy BookingHistory.txt, Cineplex6, Holiday, MovieDetails6.txt, MovieTiming, PriceConfiguration, StaffDetails2 to the project folder (paste pic)
+Run program using any java IDE
+Refer to video for actual demonstration 
+
 
 ### Creating Staff Account
-Firstly, before staff can access the staff functionalities, they are required to create a staff account. 
-Once done, simply login with your newly created credentials. 
+Create a staff account with your own ID and password.
+You can now login with these newly created credentials
 
-### Create Movie
-Create the movie by simply clicking on the create movie function which prompts you for details such as movie name, type of movie etc. However, movie-goers can only purchase tickets for movies that have Movie Timings available.
 
-### 
+### Login as User
+User need not create any account
+
+
+More information can be found in the report or watch our video for a full demonstration
+https://youtu.be/IV-vGRfrmPg
+
